@@ -1,2 +1,3 @@
 Sample file #4's text.
 The text in this file has been change.
+Step #2.
