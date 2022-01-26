@@ -1,3 +1,8 @@
 Sample file #4's text.
+<<<<<<< HEAD
 The text in this file has been change.
 Step #2.
+=======
+The text in this file has been changed.
+the text in this file has been changed again.
+>>>>>>> 16f8f2847e9f56da4eed3b36b2e2cfad068cbc82
